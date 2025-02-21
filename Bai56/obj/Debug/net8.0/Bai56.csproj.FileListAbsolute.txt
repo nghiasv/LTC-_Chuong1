@@ -1,0 +1,15 @@
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.AssemblyInfoInputs.cache
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.AssemblyInfo.cs
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.csproj.CoreCompileInputs.cache
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.sourcelink.json
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\bin\Debug\net8.0\Bai56.exe
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\bin\Debug\net8.0\Bai56.deps.json
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\bin\Debug\net8.0\Bai56.runtimeconfig.json
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\bin\Debug\net8.0\Bai56.dll
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\bin\Debug\net8.0\Bai56.pdb
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.dll
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\refint\Bai56.dll
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.pdb
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\Bai56.genruntimeconfig.cache
+D:\DH\224\224LTC#\Bai56\Bai56\Bai56\obj\Debug\net8.0\ref\Bai56.dll
