@@ -1,0 +1,15 @@
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.AssemblyInfoInputs.cache
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.AssemblyInfo.cs
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.csproj.CoreCompileInputs.cache
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.sourcelink.json
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\bin\Debug\net8.0\Bai78.exe
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\bin\Debug\net8.0\Bai78.deps.json
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\bin\Debug\net8.0\Bai78.runtimeconfig.json
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\bin\Debug\net8.0\Bai78.dll
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\bin\Debug\net8.0\Bai78.pdb
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.dll
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\refint\Bai78.dll
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.pdb
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\Bai78.genruntimeconfig.cache
+D:\DH\224\224LTC#\Bai78\Bai78\Bai78\obj\Debug\net8.0\ref\Bai78.dll
