@@ -1,0 +1,15 @@
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\bin\Debug\net8.0\Bai67.exe
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\bin\Debug\net8.0\Bai67.deps.json
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\bin\Debug\net8.0\Bai67.runtimeconfig.json
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\bin\Debug\net8.0\Bai67.dll
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\bin\Debug\net8.0\Bai67.pdb
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.GeneratedMSBuildEditorConfig.editorconfig
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.AssemblyInfoInputs.cache
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.AssemblyInfo.cs
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.csproj.CoreCompileInputs.cache
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.sourcelink.json
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.dll
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\refint\Bai67.dll
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.pdb
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\Bai67.genruntimeconfig.cache
+D:\DH\224\224LTC#\Bai67\Bai67\Bai67\obj\Debug\net8.0\ref\Bai67.dll
